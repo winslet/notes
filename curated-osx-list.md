@@ -2,10 +2,13 @@
 - Hot corners
 - Emoji & Symbol viewer
 - Quicktime mobile & screen recording
+- Grab + keyboard shortcuts
 - Alt+click for further options
 - Night Shift
 - Timemachine - enabled by default :wink:
 - Dock setup to save screen space
+
+---
 
 ### Development
 
@@ -17,6 +20,8 @@
 - SVGus (SVG organisation and cleaning) http://www.svgs.us/
 - Littleipsum (lorem ipsum generator) https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12
 
+---
+
 ### Productivity
 
 - Spectacle (window management) https://www.spectacleapp.com/
@@ -24,6 +29,8 @@
 - Alfred (spotlight replacement) https://www.alfredapp.com/
 - Writed/Bear (notes replacement)
 - Verse App (verse on your desktop) https://github.ibm.com/verse-labs/electron-verse
+
+---
 
 ### Other Utilities
 
